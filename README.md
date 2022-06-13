@@ -2,6 +2,7 @@
 Powershell script to query the NTFS USN journal to determine if you have a high USN consumption rate or if the USN journal has a new identifier.
 Script Utility - Identify USN journal consumption issue causing USN Journal wrap. Identify changes to the USN Journal where the journal size or identifier is changed.
 
+PowerSHell Command:
 Measure-UsnConsumption
 
 Useage:
