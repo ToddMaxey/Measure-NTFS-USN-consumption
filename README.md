@@ -3,7 +3,6 @@ Powershell script to query the NTFS USN journal to determine if you have a high 
 
 Measure-UsnConsumption
 
-
 #Useage:
 #Measure-UsnConsumption [-DurationInSeconds][-UsnConsumptionThreshold][-DriveLetter][-DriveLetter]
 
